@@ -2,6 +2,8 @@
 #include <jni.h>
 #include <errno.h>
 #include <cassert>
+#include <stdio.h>
+#include <string.h>
 
 #include <EGL/egl.h>
 #include <GLES/gl.h>
